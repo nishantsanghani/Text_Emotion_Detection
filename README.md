@@ -52,7 +52,7 @@ NLP USED IN THIS PROJECT
 HOW TO INSTALL & RUN
 --------------------------------------------------
 1. Clone the repository
-   git clone https://github.com/your-username/text-emotion-detection.git
+   git clone https://github.com/nishantsanghani/Text_Emotion_Detection
 
 2. Navigate to the project directory
    cd text-emotion-detection
